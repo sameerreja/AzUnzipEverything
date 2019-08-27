@@ -82,12 +82,4 @@ I also have an extended version where I introduce more the Visual Studio Extensi
 
 
 
-
-[CreationForm]: /medias/CreationForm.png "Creation Form"
-[resourceGroup]: /medias/resourceGroup.png "Select the ResourceGroup"
-[uploadFile]: /medias/uploadFile.png "Upload Zip file"
-[FunctionCICD]: /medias/AzureFunctionCICD_YT.png "YouTube thumbnail"
-[Auto-UnzipFunction_YT]: /medias/Auto-UnzipFunction_YT.png "YouTube thumbnail"
-[AzureFunctionWithVSCode_YT]: /medias/AzureFunctionWithVSCode_YT.png "YouTube thumbnail"
-
 commit
