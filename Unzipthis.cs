@@ -16,7 +16,7 @@ namespace AzUnzipEverything
         [FunctionName("Unzipthis")]
         public static async Task Run([BlobTrigger("input-files/{name}", Connection = "cloud5mins_storage")]CloudBlockBlob myBlob, string name, ILogger log)
         {
-            log.LogInformation($"C# Blob trigger function Processed blob\n Name:{name}");
+            log.LogInformation($"C# Blob trigger function Processed blob demo\n Name:{name}");
 
             string destinationStorage = Environment.GetEnvironmentVariable("destinationStorage");
             string destinationContainer = Environment.GetEnvironmentVariable("destinationContainer");
